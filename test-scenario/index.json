@@ -1,6 +1,6 @@
 {
   "title": "Test Scenario",
-  "description": "Trying Things OUt",
+  "description": "Trying katacoda out",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
@@ -11,7 +11,8 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "scripts/install-cli.sh"
     },
     "finish": {
       "text": "finish.md"
