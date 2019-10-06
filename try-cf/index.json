@@ -1,13 +1,17 @@
 {
-  "title": "Test Scenario",
-  "description": "Trying katacoda out",
+  "title": "Try Cloud Foundry",
+  "description": "",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
-        "text": "step1.md"
+        "title": "cf help",
+        "text": "cf-help.md"
+      },
+      {
+        "title": "Loggin in",
+        "text": "login.md"
       }
     ],
     "intro": {
@@ -26,5 +30,4 @@
   }
 }
 
-// Use answer scripts to hide solution
 
