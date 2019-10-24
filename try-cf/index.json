@@ -3,21 +3,18 @@
   "description": "",
   "difficulty": "Beginner",
   "time": "60 minutes",
+  "private": true,
   "details": {
-    "steps": [
-      {
-        "title": "cf help",
-        "text": "cf-help.md"
-      },
-      {
-        "title": "Logging in",
-        "text": "login.md"
-      }
-    ],
     "intro": {
-      "text": "intro.md",
+      "text": "content/intro.md",
       "courseData": "scripts/install-cli.sh"
     },
+    "steps": [
+      {
+        "title": "The CLI (Command Line Interface)",
+        "text": "content/cli.md"
+      }
+    ],
     "finish": {
       "text": "finish.md"
     }
